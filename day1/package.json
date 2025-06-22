@@ -1,0 +1,29 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "this is day one lecr2 of NR",
+  "keywords": [
+    "react",
+    "lecr1"
+  ],
+  "homepage": "https://github.com/arnavigode/Practice_Daily/tree/master#readme",
+  "bugs": {
+    "url": "https://github.com/arnavigode/Practice_Daily/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavigode/Practice_Daily.git#master"
+  },
+  "license": "ISC",
+  "author": "AG",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
